@@ -5,5 +5,5 @@ def subtract(a, b):
     return a - b
     
 if __name__ == "__main__":
-    print(add(2, 3))
+    print(f"Result of addition: {add(2, 3)}")
     print(subtract(5, 2))
